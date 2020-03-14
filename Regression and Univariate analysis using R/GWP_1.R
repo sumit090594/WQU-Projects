@@ -1,3 +1,5 @@
+#This project delve into regression and univariate analysis, demonstrating basic understanding of statistics and R code
+
 library(tidyverse)
 library(stats)
 library(readxl)
