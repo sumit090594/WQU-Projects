@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # In[1]:
-
 
 from pyramid.arima import auto_arima
 from arch import arch_model
