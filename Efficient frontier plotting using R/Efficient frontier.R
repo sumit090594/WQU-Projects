@@ -1,6 +1,6 @@
 #To read Documents from Excel file 
 library(readxl)
-etfs<-read_excel("Submission 2.xlsx")
+etfs<-read_excel("ETFs.xlsx")
 
 #Creating return  and Beta matrix from question 1
 rf<-2.25  #Risk Free Return
