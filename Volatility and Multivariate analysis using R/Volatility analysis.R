@@ -1,4 +1,4 @@
-#Understanding of volatility analysis by investigating and analyzing a Apple stock return
+#Understanding of volatility analysis by investigating and analyzing a Apple stock return 
 library(rugarch)
 library(tseries)
 library(fBasics)
