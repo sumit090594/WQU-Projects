@@ -134,4 +134,4 @@ cluster = as.numeric(km.res$cluster)
 par(mfrow=c(1,1))
 spdf = joinCountryData2Map(data.frame(cluster,df$CountryName), joinCode="NAME", nameJoinColumn="df.CountryName",verbose = TRUE,mapResolution = "low")
 mapCountryData(spdf, nameColumnToPlot="cluster", catMethod="fixedWidth",colourPalette=c("#2E9FDF","#00AFBB","#E7B800"), addLegend = FALSE, lwd = 0.5)
-
+ 
